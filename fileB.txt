@@ -1,2 +1,4 @@
 This is file B
 let's make a change 
+
+changes have been done by GitHub.
